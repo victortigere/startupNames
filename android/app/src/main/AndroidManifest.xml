@@ -2,7 +2,7 @@
     package="com.example.startup_namer">
    <application
         android:label="startup_namer"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
